@@ -1,0 +1,105 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, "MS Trebuchet", sans-serif;
+    background-color: #bfdbdd;
+    font-size: 14px;
+}
+
+div.container {
+    width: 900px;
+    padding: 10px;
+    margin: 15px auto;
+    background-color: #f7f7f7;
+    color: #232323;
+}
+
+#pageHeader {
+    width: 100%;
+}
+
+img.imgLogo {
+    height: 50px;
+}
+
+div.pageLogo {
+    float: left;
+}
+
+div.pageLogoDir {
+    float: right;
+}
+
+nav#menuPrincipal {
+    clear: both;
+}
+
+#pageHeader nav ul,
+#pageFooter nav ul {
+    list-style: nome;
+    margin: 0px;
+    padding: 0px;
+}
+
+#pageHeader ul li,
+#pageFooter ul li {
+    margin: 0 20px 0 0;
+    padding: 0px;
+    display: inline;
+}
+
+#menuPrincipal,
+#pageFooter {
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#menuPrincipal a,
+#pageFooter a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+/* Elementos do Titulo */
+
+.titleHeader {
+    margin-botom: 0px;
+    margin-top: 0px;
+}
+
+footer#pageFooter small {
+    color: #ffffff;
+    font-size: 12px;
+}
+
+footer#pageFooter nav {
+    floar: right;
+}
+
+fooer#pageFooer nav ul il {
+    font-size: 12px;
+}
+
+footer#pageFooter {
+    clear: both;
+}
+
+
+/* Section CORPO */
+
+#corpoDaPagina {
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    padding: 10px;
+}
+
+
+/**    https://coolors.co/    Cores: Bluegray            #89d6fb     (137,214,251)            #dbf3ff     (219,243,255)            #ffffff     (255,255,255)            #b4c8ea     (180,200,234)            #91a8d0     (145,168,208)
+    Fluorescent Raspberry            #ff0878     (255,8,120)            #ff4098     (255,64,152)            #ff80ba     (255,128,186)            #ffb7d9     (255,183,217)            #ffedf5     (255,237,245)**/
+
+
+/*  */
